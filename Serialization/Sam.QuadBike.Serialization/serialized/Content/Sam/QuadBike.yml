@@ -1,0 +1,18 @@
+﻿---
+ID: "54bf9552-fe87-4b6d-88a9-f5d03d385ed0"
+Parent: "1166335a-258e-46e3-a487-a66e4723e017"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Sam/QuadBike
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191007T133233Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

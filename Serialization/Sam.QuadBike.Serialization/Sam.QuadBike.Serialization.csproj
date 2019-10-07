@@ -103,7 +103,9 @@
     <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Default.example" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.AutoPublish.config" />
-    <Content Include="App_Config\Include\zzz.QuadBike\QuadBike.Serialization.config" />
+    <Content Include="App_Config\Include\zzz.QuadBike\QuadBike.Serialization.config">
+      <SubType>Designer</SubType>
+    </Content>
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

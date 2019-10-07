@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Sam.ToolStockSc.Web
+namespace Sam.QuadBike.Web
 {
     public class Global : Sitecore.Web.Application
     {

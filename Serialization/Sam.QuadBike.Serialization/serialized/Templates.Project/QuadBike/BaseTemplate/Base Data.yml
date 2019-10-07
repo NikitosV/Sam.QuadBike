@@ -1,0 +1,18 @@
+﻿---
+ID: "ec26f527-a986-42cd-90b8-8361bcc505f6"
+Parent: "46eb8483-4586-449f-b31a-2c53ba1b7dba"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/QuadBike/BaseTemplate/Base Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191007T140805Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

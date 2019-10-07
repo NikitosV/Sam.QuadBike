@@ -1,0 +1,33 @@
+﻿---
+ID: "5a10483a-1a4c-479d-abc2-c5ea7d358477"
+Parent: "54bf9552-fe87-4b6d-88a9-f5d03d385ed0"
+Template: "46eb8483-4586-449f-b31a-2c53ba1b7dba"
+Path: /sitecore/content/Sam/QuadBike/Home
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Network/16x16/home.png
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{4DA41DAC-F64F-40AA-980A-B5A101A112DC}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0c4c9552-d838-4f1b-b177-735bfb2be0e1"
+      Hint: Title
+      Value: Home
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191007T142841Z
+    - ID: "5517d5e2-f559-431f-b749-7292321ef1e9"
+      Hint: Footer
+      Value: Nikita Vashkov 2019
