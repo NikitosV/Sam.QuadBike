@@ -152,6 +152,8 @@
     <Content Include="Content\bootstrap-reboot.css.map" />
     <Content Include="Content\bootstrap-grid.min.css.map" />
     <Content Include="Content\bootstrap-grid.css.map" />
+    <Content Include="Areas\Project\Views\Header\Header.cshtml" />
+    <Content Include="Areas\Project\Views\Shared\ContactUsLayout.cshtml" />
     <None Include="Global.asax" />
   </ItemGroup>
   <ItemGroup>

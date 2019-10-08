@@ -1,0 +1,14 @@
+﻿---
+ID: "064a51a0-e3c3-443c-859b-113b5171203e"
+Parent: "9c68a409-f224-4c80-a5a9-9f27b2f630d4"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Feature/Button/Button
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191008T105341Z

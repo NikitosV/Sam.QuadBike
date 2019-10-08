@@ -1,0 +1,29 @@
+﻿@using Sitecore.Mvc
+
+@{
+    Layout = null;
+}
+
+<header>
+    <nav class="navbar navbar-expand-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <div class="container">
+            <img class="navbar-brand" style="height:auto" src="~/logo.png" width="200" />
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverses" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        @Html.Sitecore().Placeholder("Button")
+                    </li>
+                    <li class="nav-item">
+                        @Html.Sitecore().Placeholder("Button")
+                    </li>
+                    <li class="nav-item">
+                        @Html.Sitecore().Placeholder("Button")
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>

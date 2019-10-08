@@ -1,0 +1,14 @@
+﻿---
+ID: "a7b330c0-a510-443d-a112-7d083f273e4f"
+Parent: "d594924e-3592-45b3-9ac8-f0a1d97e0944"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Project/QuadBike/Header/Header
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191008T131216Z
