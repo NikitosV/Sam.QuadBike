@@ -8,7 +8,7 @@ using System.Web;
 
 namespace Sam.Feature.Button.Areas.Feature.Models.ScModels
 {
-    [SitecoreType(TemplateId = "", AutoMap = true)]
+    [SitecoreType(TemplateId = "{4DDAEB41-5696-4911-BE25-19853299BEAD}", AutoMap = true)] // Id Button Data Source Template
     public class ButtonScModel
     {
         [SitecoreId]

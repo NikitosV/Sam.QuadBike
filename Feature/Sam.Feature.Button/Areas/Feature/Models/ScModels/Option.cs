@@ -7,7 +7,7 @@ using System.Web;
 
 namespace Sam.Feature.Button.Areas.Feature.Models.ScModels
 {
-    [SitecoreType(TemplateId = "")]
+    [SitecoreType(TemplateId = "{C5970CBC-F717-4757-92BF-FC90B89C2FF7}")] // Id Template: Option
     public class Option
     {
         [SitecoreId]

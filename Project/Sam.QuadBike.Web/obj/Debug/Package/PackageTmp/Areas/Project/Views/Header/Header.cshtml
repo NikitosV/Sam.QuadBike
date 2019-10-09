@@ -4,7 +4,7 @@
     Layout = null;
 }
 
-<header>
+@*<header>
     <nav class="navbar navbar-expand-sm navbar-light bg-white border-bottom box-shadow mb-3">
         <div class="container">
             <img class="navbar-brand" style="height:auto" src="~/logo.png" width="200" />
@@ -26,4 +26,16 @@
             </div>
         </div>
     </nav>
-</header>
+</header>*@
+
+<div class="row">
+    <div class="col border text-center">
+        Column 1
+    </div>
+    <div class="col border text-center">
+        @Html.Sitecore().Placeholder("Button Placeholder")
+    </div>
+    <div class="col border text-center">
+        Column 3
+    </div>
+</div>

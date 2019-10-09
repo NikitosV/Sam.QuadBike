@@ -1,0 +1,14 @@
+﻿---
+ID: "2de834c1-5b26-4fcd-af84-8aefbef378c4"
+Parent: "c67f2fc1-215f-4f23-aa8e-b74e4129149f"
+Template: "a14b1965-a13a-4905-acd2-27b8c4c264d7"
+Path: /sitecore/content/Sam/QuadBike/Options/Button Styles
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191009T082800Z

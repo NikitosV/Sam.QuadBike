@@ -4,6 +4,10 @@ Parent: "1166335a-258e-46e3-a487-a66e4723e017"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
 Path: /sitecore/content/Sam/QuadBike
 DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Network/16x16/earth.png
 Languages:
 - Language: en
   Versions:

@@ -8,7 +8,7 @@ using System.Web;
 
 namespace Sam.Feature.Button.Areas.Feature.Models.Rendering_Parameters
 {
-    [SitecoreType(TemplateId = "", AutoMap = true)]
+    [SitecoreType(TemplateId = "{4A509DBE-A0A6-4BCC-ABDC-34E6C84B46F6}", AutoMap = true)] // Id Button Rendering Parameter Style
     public class ButtonRP
     {
         [SitecoreField(FieldType = SitecoreFieldType.Droplink)]

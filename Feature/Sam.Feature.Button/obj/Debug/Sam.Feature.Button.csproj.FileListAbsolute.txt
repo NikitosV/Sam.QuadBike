@@ -75,7 +75,6 @@ C:\Projects\Sam.QuadBike\Feature\Sam.Feature.Button\bin\System.Web.WebPages.xml
 C:\Projects\Sam.QuadBike\Feature\Sam.Feature.Button\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\Sam.QuadBike\Feature\Sam.Feature.Button\bin\System.Web.WebPages.Razor.xml
 C:\Projects\Sam.QuadBike\Feature\Sam.Feature.Button\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Projects\Sam.QuadBike\Feature\Sam.Feature.Button\obj\Debug\Sam.Feature.Button.csprojAssemblyReference.cache
 C:\Projects\Sam.QuadBike\Feature\Sam.Feature.Button\obj\Debug\Sam.Feature.Button.csproj.CoreCompileInputs.cache
 C:\Projects\Sam.QuadBike\Feature\Sam.Feature.Button\obj\Debug\Sam.Feature.Button.csproj.CopyComplete
 C:\Projects\Sam.QuadBike\Feature\Sam.Feature.Button\obj\Debug\Sam.Feature.Button.dll

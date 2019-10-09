@@ -4,6 +4,10 @@ Parent: "d594924e-3592-45b3-9ac8-f0a1d97e0944"
 Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
 Path: /sitecore/layout/Renderings/Project/QuadBike/Header/Header
 DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Areas/Project/Views/Header/Header.cshtml
 Languages:
 - Language: en
   Versions:
