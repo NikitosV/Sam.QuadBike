@@ -79,3 +79,4 @@ C:\Projects\Sam.QuadBike\Feature\Sam.Feature.Button\obj\Debug\Sam.Feature.Button
 C:\Projects\Sam.QuadBike\Feature\Sam.Feature.Button\obj\Debug\Sam.Feature.Button.csproj.CopyComplete
 C:\Projects\Sam.QuadBike\Feature\Sam.Feature.Button\obj\Debug\Sam.Feature.Button.dll
 C:\Projects\Sam.QuadBike\Feature\Sam.Feature.Button\obj\Debug\Sam.Feature.Button.pdb
+C:\Projects\Sam.QuadBike\Feature\Sam.Feature.Button\obj\Debug\Sam.Feature.Button.csprojAssemblyReference.cache
