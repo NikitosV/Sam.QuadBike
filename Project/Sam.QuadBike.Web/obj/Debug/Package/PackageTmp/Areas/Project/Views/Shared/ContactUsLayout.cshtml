@@ -9,7 +9,7 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>Contact Us</title>
+    <title>Home</title>
     <link rel="stylesheet" href="~/Content/bootstrap.css" />
 </head>
 <body>
@@ -17,10 +17,13 @@
         @Html.Sitecore().Placeholder("Header")
     </div>
     <div class="container">
-        <div>
-            Contact us
+        <div class="container-fluid border text-center">
+            <div>
+               Nikita Vashkov +375445804011
+            </div>
         </div>
     </div>
+    @*<footer class="page-footer font-small blue pt-4">*@
     <footer class="footer mt-auto py-3">
         <div class="footer-copyright text-center py-3">
             © 2019 Copyright: @Html.Sitecore().Field("Footer")

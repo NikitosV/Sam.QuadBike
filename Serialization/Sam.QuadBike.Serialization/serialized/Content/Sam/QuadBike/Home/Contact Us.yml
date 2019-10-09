@@ -28,11 +28,22 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{65AE7351-E2D8-4BF2-AA22-1961186D3BEB}"
+              uid="{BD1273A7-1DE1-4B88-8A6D-EEC3E52CF451}"
+              p:before="*"
               s:ds="{DEF2330E-0A10-40D0-9DBB-0711A50B0D33}"
               s:id="{F724E72A-F70C-4BEB-B76B-C774571C73CD}"
-              s:par="Style={285C69B6-57B3-4613-9162-278F44C0452F}"
               s:ph="/Header/Button Placeholder" />
+            <r
+              uid="{1B92B18A-178B-44FA-A1B7-D3C97AABDFF1}"
+              p:after="r[@uid='{BD1273A7-1DE1-4B88-8A6D-EEC3E52CF451}']"
+              s:ds="{9CBC3470-08BA-4EC1-8B49-CCB07A654F29}"
+              s:id="{3A23F2FB-E396-49F6-9A65-50893B080A92}"
+              s:ph="/Header/Button Placeholder" />
+            <r
+              uid="{495AA648-86FE-4955-A857-232C89DA2A40}"
+              p:after="*[1=2]"
+              s:id="{A7B330C0-A510-443D-A112-7D083F273E4F}"
+              s:ph="Header" />
           </d>
         </r>
     - ID: "0c4c9552-d838-4f1b-b177-735bfb2be0e1"
@@ -43,4 +54,4 @@ Languages:
       Value: 20191008T130059Z
     - ID: "5517d5e2-f559-431f-b749-7292321ef1e9"
       Hint: Footer
-      Value: Nikita Vashkov 2019
+      Value: Sam Solutions

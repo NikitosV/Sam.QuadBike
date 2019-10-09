@@ -1,0 +1,35 @@
+﻿---
+ID: "e05fe040-d606-4389-9927-0459cbb10483"
+Parent: "9f3b541a-6e02-4a84-844c-af7674458dc9"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Feature/Slider/Hero Slider
+DB: master
+SharedFields:
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+  Hint: Datasource Template
+  Value: /sitecore/templates/Feature/Slider/Slider
+- ID: "308e88f5-cd6e-4f8f-bafe-95a47dedefdc"
+  Hint: Editable
+  Type: Checkbox
+  Value: 0
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: /sitecore/content/Sam/QuadBike/Content/Slider
+- ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
+  Hint: Controller Action
+  Value: HeroSlider
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: Slider
+- ID: "f172b787-7b88-4bd5-ae4d-6308e102ef11"
+  Hint: Enable Datasource Query
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191009T160259Z

@@ -4,6 +4,10 @@ Parent: "a5a31aec-cb5b-4047-ae52-77d2624ae506"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
 Path: /sitecore/content/Sam/QuadBike/Content/Button
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
 Languages:
 - Language: en
   Versions:
