@@ -16,10 +16,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/07/2019 17:19:15</publishTime>
     </File>
     <File Include="Areas/Project/Views/Header/Header.cshtml">
-      <publishTime>10/09/2019 17:22:12</publishTime>
+      <publishTime>10/10/2019 17:06:13</publishTime>
     </File>
     <File Include="Areas/Project/Views/Shared/BaseLayout.cshtml">
-      <publishTime>10/09/2019 17:42:55</publishTime>
+      <publishTime>10/10/2019 16:53:25</publishTime>
     </File>
     <File Include="Areas/Project/Views/Shared/ContactUsLayout.cshtml">
       <publishTime>10/09/2019 17:28:23</publishTime>

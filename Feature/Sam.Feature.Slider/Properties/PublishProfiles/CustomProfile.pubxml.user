@@ -10,7 +10,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="Areas/Feature/Views/Components/HeroSlider.cshtml">
-      <publishTime>10/10/2019 15:50:50</publishTime>
+      <publishTime>10/10/2019 17:25:01</publishTime>
     </File>
     <File Include="Areas/Feature/Views/Slider/Slider.cshtml">
       <publishTime>10/10/2019 14:56:27</publishTime>
@@ -130,10 +130,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/24/2018 13:38:22</publishTime>
     </File>
     <File Include="bin/Sam.Feature.Slider.dll">
-      <publishTime>10/10/2019 15:14:16</publishTime>
+      <publishTime>10/10/2019 16:11:19</publishTime>
     </File>
     <File Include="bin/Sam.Feature.Slider.pdb">
-      <publishTime>10/10/2019 15:14:16</publishTime>
+      <publishTime>10/10/2019 16:11:19</publishTime>
     </File>
     <File Include="bin/Sitecore.Kernel.dll">
       <publishTime>04/06/2018 12:18:56</publishTime>
@@ -179,6 +179,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="bin/WebActivatorEx.dll">
       <publishTime>08/06/2013 13:07:26</publishTime>
+    </File>
+    <File Include="Script/SliderCss.css">
+      <publishTime>10/10/2019 16:47:21</publishTime>
     </File>
   </ItemGroup>
 </Project>

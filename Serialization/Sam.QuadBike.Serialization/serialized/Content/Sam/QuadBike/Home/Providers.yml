@@ -1,0 +1,17 @@
+﻿---
+ID: "2f9cec26-2694-4d9d-9dd2-9ecdb6403566"
+Parent: "5a10483a-1a4c-479d-abc2-c5ea7d358477"
+Template: "46eb8483-4586-449f-b31a-2c53ba1b7dba"
+Path: /sitecore/content/Sam/QuadBike/Home/Providers
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0c4c9552-d838-4f1b-b177-735bfb2be0e1"
+      Hint: Title
+      Value: Providers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191010T142645Z

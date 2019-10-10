@@ -139,6 +139,7 @@
   <ItemGroup>
     <Content Include="Areas\Feature\Views\web.config" />
     <Content Include="Areas\Feature\Views\Components\HeroSlider.cshtml" />
+    <Content Include="Script\SliderCss.css" />
     <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Include="Web.config" />
   </ItemGroup>
