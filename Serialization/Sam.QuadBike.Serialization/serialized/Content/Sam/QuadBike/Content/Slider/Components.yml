@@ -1,0 +1,14 @@
+﻿---
+ID: "d3e18797-a22a-4317-8243-fc230eb28dae"
+Parent: "52496d76-b0d2-4896-87f6-fd4d969c913f"
+Template: "c285a44c-3136-42de-8b34-589d33f6f8e3"
+Path: /sitecore/content/Sam/QuadBike/Content/Slider/Components
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191010T112821Z

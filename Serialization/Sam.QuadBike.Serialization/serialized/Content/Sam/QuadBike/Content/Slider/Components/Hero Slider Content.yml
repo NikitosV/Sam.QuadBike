@@ -1,0 +1,25 @@
+﻿---
+ID: "3e570b22-b36f-47f2-9053-6af2abb48ce7"
+Parent: "d3e18797-a22a-4317-8243-fc230eb28dae"
+Template: "d4274576-d7b3-4e20-b3e9-3df71d452500"
+Path: /sitecore/content/Sam/QuadBike/Content/Slider/Components/Hero Slider Content
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19181b5b-1f27-4900-b7de-0e76c6d053eb"
+      Hint: Hero Images
+      Type: Treelist
+      Value: |
+        {84B053C0-6AAC-49BE-9F56-28276BE8ADE5}
+        {2C3316C3-6534-459E-95F9-00753DAFDBD2}
+        {964A628B-000B-49F7-9C0D-2ECC0A39EF16}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191010T115458Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

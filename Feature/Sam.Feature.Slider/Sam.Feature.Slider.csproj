@@ -138,14 +138,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Areas\Feature\Views\web.config" />
-    <Content Include="Areas\Feature\Views\Slider\Slider.cshtml" />
+    <Content Include="Areas\Feature\Views\Components\HeroSlider.cshtml" />
     <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RazorGeneratorMvcStart.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Areas\Feature\Controllers\SliderController.cs" />
+    <Compile Include="Areas\Feature\Controllers\ComponentsController.cs" />
     <Compile Include="Areas\Feature\FeatureAreaRegistration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
