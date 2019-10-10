@@ -9,11 +9,11 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>Home</title>
+    <title>Contact Us</title>
     <link rel="stylesheet" href="~/Content/bootstrap.css" />
 </head>
 <body>
-    <div class="container">
+    <div>
         @Html.Sitecore().Placeholder("Header")
     </div>
     <div class="container">
@@ -24,7 +24,7 @@
         </div>
     </div>
     @*<footer class="page-footer font-small blue pt-4">*@
-    <footer class="footer mt-auto py-3">
+    <footer class="footer mt-auto py-3 fixed-bottom">
         <div class="footer-copyright text-center py-3">
             © 2019 Copyright: @Html.Sitecore().Field("Footer")
         </div>

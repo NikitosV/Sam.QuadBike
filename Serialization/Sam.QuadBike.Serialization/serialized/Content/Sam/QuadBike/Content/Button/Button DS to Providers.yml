@@ -1,0 +1,22 @@
+﻿---
+ID: "fdd63468-f71b-400e-8e6c-bea9854626a6"
+Parent: "4baf52ef-39f8-459f-b0dd-32cb757d6a78"
+Template: "4ddaeb41-5696-4911-be25-19853299bead"
+Path: /sitecore/content/Sam/QuadBike/Content/Button/Button DS to Providers
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191010T143914Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "f0b332b6-c98e-4258-8783-b03d9fc91ce8"
+      Hint: Link
+      Value: |
+        <link linktype="internal" text="Providers" querystring="" target="" id="{2F9CEC26-2694-4D9D-9DD2-9ECDB6403566}" />

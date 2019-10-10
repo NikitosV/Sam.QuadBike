@@ -34,28 +34,40 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{0793C6E7-12A7-405E-8F1A-4FDF00249EEE}"
+              uid="{9F7382B8-51E0-4D37-A62C-78F5322243AF}"
               p:before="*"
-              s:ds="{3E570B22-B36F-47F2-9053-6AF2ABB48CE7}"
-              s:id="{583D9455-21A4-4940-ADA3-DD025F2C4D5D}"
-              s:ph="SliderContent" />
-            <r
-              uid="{5E299346-8E8F-46E8-AF69-AEC1A7BCBBF9}"
-              p:after="r[@uid='{0793C6E7-12A7-405E-8F1A-4FDF00249EEE}']"
               s:ds="{DEF2330E-0A10-40D0-9DBB-0711A50B0D33}"
               s:id="{F724E72A-F70C-4BEB-B76B-C774571C73CD}"
               s:ph="/Header/Button Placeholder" />
             <r
-              uid="{DA7658E3-132A-4DBA-BA57-F4F574BA2A5D}"
-              p:after="r[@uid='{5E299346-8E8F-46E8-AF69-AEC1A7BCBBF9}']"
+              uid="{37062122-B3ED-4DB6-8329-0C3B9BF90B52}"
+              p:after="r[@uid='{9F7382B8-51E0-4D37-A62C-78F5322243AF}']"
+              s:ds="{2A364538-317A-4A50-AA0B-56D0998FEB68}"
+              s:id="{F724E72A-F70C-4BEB-B76B-C774571C73CD}"
+              s:ph="/Header/Button Placeholder" />
+            <r
+              uid="{5EEC4664-9260-4B45-AF7C-411351991EBA}"
+              p:after="r[@uid='{37062122-B3ED-4DB6-8329-0C3B9BF90B52}']"
+              s:ds="{FDD63468-F71B-400E-8E6C-BEA9854626A6}"
+              s:id="{F724E72A-F70C-4BEB-B76B-C774571C73CD}"
+              s:ph="/Header/Button Placeholder" />
+            <r
+              uid="{5114FF34-3773-487C-9786-A2BFC2BAD300}"
+              p:after="r[@uid='{5EEC4664-9260-4B45-AF7C-411351991EBA}']"
               s:ds="{9CBC3470-08BA-4EC1-8B49-CCB07A654F29}"
               s:id="{F724E72A-F70C-4BEB-B76B-C774571C73CD}"
               s:ph="/Header/Button Placeholder" />
             <r
-              uid="{F7209113-344F-4E15-85AA-1D8AC131C934}"
-              p:after="*[1=2]"
+              uid="{DD0AEDDC-83D8-49F6-ADEC-6AB18C7AC099}"
+              p:after="r[@uid='{5114FF34-3773-487C-9786-A2BFC2BAD300}']"
               s:id="{A7B330C0-A510-443D-A112-7D083F273E4F}"
               s:ph="Header" />
+            <r
+              uid="{0793C6E7-12A7-405E-8F1A-4FDF00249EEE}"
+              p:after="*[1=2]"
+              s:ds="{3E570B22-B36F-47F2-9053-6AF2ABB48CE7}"
+              s:id="{583D9455-21A4-4940-ADA3-DD025F2C4D5D}"
+              s:ph="SliderContent" />
           </d>
         </r>
     - ID: "0c4c9552-d838-4f1b-b177-735bfb2be0e1"

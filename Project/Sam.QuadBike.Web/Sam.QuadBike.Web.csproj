@@ -154,6 +154,8 @@
     <Content Include="Content\bootstrap-grid.css.map" />
     <Content Include="Areas\Project\Views\Header\Header.cshtml" />
     <Content Include="Areas\Project\Views\Shared\ContactUsLayout.cshtml" />
+    <Content Include="Areas\Project\Views\Shared\BikesLayout.cshtml" />
+    <Content Include="Areas\Project\Views\Shared\ProvidersLayout.cshtml" />
     <None Include="Global.asax" />
   </ItemGroup>
   <ItemGroup>
@@ -192,6 +194,7 @@
     <Content Include="Scripts\jquery-3.0.0.slim.min.js" />
     <Content Include="Scripts\jquery-3.0.0.slim.min.map" />
     <Content Include="Scripts\jquery-3.0.0.min.map" />
+    <Content Include="Scripts\MySite.css" />
     <Content Include="Scripts\popper-utils.js" />
     <Content Include="Scripts\popper-utils.min.js" />
     <Content Include="Scripts\popper.js" />
