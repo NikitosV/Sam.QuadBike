@@ -158,9 +158,18 @@
     <Content Include="Areas\Project\Views\Shared\ProvidersLayout.cshtml" />
     <Content Include="Areas\Project\Views\Shared\LoginLayout.cshtml" />
     <Content Include="Areas\Project\Views\Shared\RegisterLayout.cshtml" />
+    <Content Include="Areas\Project\Views\Account\Login.cshtml" />
+    <Content Include="Areas\Project\Views\Account\Register.cshtml" />
     <None Include="Global.asax" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Areas\Project\Controllers\AccountController.cs" />
+    <Compile Include="Areas\Project\Logic\Interfaces\IAccountService.cs" />
+    <Compile Include="Areas\Project\Logic\Services\AccountService.cs" />
+    <Compile Include="Areas\Project\Models\ScModels\LoginScModel.cs" />
+    <Compile Include="Areas\Project\Models\ScModels\RegisterScModel.cs" />
+    <Compile Include="Areas\Project\Models\ViewModels\LoginViewModel.cs" />
+    <Compile Include="Areas\Project\Models\ViewModels\RegisterViewModel.cs" />
     <Compile Include="Areas\Project\ProjectAreaRegistration.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -223,8 +232,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Areas\Project\Controllers\" />
-    <Folder Include="Areas\Project\Models\" />
+    <Folder Include="Areas\Project\Models\Rendering Parameters\" />
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="Scripts\index.d.ts" />
