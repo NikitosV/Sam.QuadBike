@@ -28,8 +28,15 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{07B6C016-0791-45F3-A92A-E64C1CC0DAC3}"
+              uid="{1507D568-A147-47F2-A92B-95B51A6E42B1}"
               p:before="*"
+              s:ds="{5295FC01-F757-429F-AA84-2246F0591AA5}"
+              s:id="{F724E72A-F70C-4BEB-B76B-C774571C73CD}"
+              s:par="Style={E14D1AAD-CC1C-4EEF-B1D9-BF840C3D30A1}"
+              s:ph="/Header/Login Placeholder" />
+            <r
+              uid="{07B6C016-0791-45F3-A92A-E64C1CC0DAC3}"
+              p:after="r[@uid='{1507D568-A147-47F2-A92B-95B51A6E42B1}']"
               s:ds="{DEF2330E-0A10-40D0-9DBB-0711A50B0D33}"
               s:id="{F724E72A-F70C-4BEB-B76B-C774571C73CD}"
               s:ph="/Header/Button Placeholder" />

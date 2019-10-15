@@ -1,0 +1,22 @@
+﻿---
+ID: "dce996a0-7592-4dd1-bf71-d4aad932847d"
+Parent: "4baf52ef-39f8-459f-b0dd-32cb757d6a78"
+Template: "4ddaeb41-5696-4911-be25-19853299bead"
+Path: /sitecore/content/Sam/QuadBike/Content/Button/Button DS to Register
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191015T115139Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "f0b332b6-c98e-4258-8783-b03d9fc91ce8"
+      Hint: Link
+      Value: |
+        <link linktype="internal" text="Register" querystring="" target="" id="{4684A976-5EC4-4FEA-879B-5E92576F8051}" />

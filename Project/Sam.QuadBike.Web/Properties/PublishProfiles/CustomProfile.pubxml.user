@@ -16,7 +16,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/07/2019 17:19:15</publishTime>
     </File>
     <File Include="Areas/Project/Views/Header/Header.cshtml">
-      <publishTime>10/10/2019 17:06:13</publishTime>
+      <publishTime>10/15/2019 14:06:45</publishTime>
     </File>
     <File Include="Areas/Project/Views/Shared/BaseLayout.cshtml">
       <publishTime>10/10/2019 17:54:05</publishTime>
@@ -27,8 +27,14 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Areas/Project/Views/Shared/ContactUsLayout.cshtml">
       <publishTime>10/10/2019 17:55:01</publishTime>
     </File>
+    <File Include="Areas/Project/Views/Shared/LoginLayout.cshtml">
+      <publishTime>10/15/2019 14:46:34</publishTime>
+    </File>
     <File Include="Areas/Project/Views/Shared/ProvidersLayout.cshtml">
       <publishTime>10/10/2019 17:54:57</publishTime>
+    </File>
+    <File Include="Areas/Project/Views/Shared/RegisterLayout.cshtml">
+      <publishTime>10/15/2019 14:44:04</publishTime>
     </File>
     <File Include="Areas/Project/Views/Web.config">
       <publishTime>10/07/2019 15:33:36</publishTime>
@@ -145,10 +151,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/24/2018 13:38:22</publishTime>
     </File>
     <File Include="bin/Sam.QuadBike.Web.dll">
-      <publishTime>10/10/2019 17:51:58</publishTime>
+      <publishTime>10/15/2019 14:44:14</publishTime>
     </File>
     <File Include="bin/Sam.QuadBike.Web.pdb">
-      <publishTime>10/10/2019 17:51:58</publishTime>
+      <publishTime>10/15/2019 14:44:14</publishTime>
     </File>
     <File Include="bin/Sitecore.Kernel.dll">
       <publishTime>04/06/2018 12:18:56</publishTime>

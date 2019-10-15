@@ -1,0 +1,22 @@
+﻿---
+ID: "5295fc01-f757-429f-aa84-2246f0591aa5"
+Parent: "4baf52ef-39f8-459f-b0dd-32cb757d6a78"
+Template: "4ddaeb41-5696-4911-be25-19853299bead"
+Path: /sitecore/content/Sam/QuadBike/Content/Button/Button DS to Login
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191015T111012Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "f0b332b6-c98e-4258-8783-b03d9fc91ce8"
+      Hint: Link
+      Value: |
+        <link linktype="internal" text="Login" querystring="" target="" id="{8610EBE5-7B9F-4BE4-8577-67D73BF3DC25}" />

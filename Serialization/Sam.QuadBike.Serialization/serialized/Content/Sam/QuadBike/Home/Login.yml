@@ -1,0 +1,73 @@
+﻿---
+ID: "8610ebe5-7b9f-4be4-8577-67d73bf3dc25"
+Parent: "5a10483a-1a4c-479d-abc2-c5ea7d358477"
+Template: "46eb8483-4586-449f-b31a-2c53ba1b7dba"
+Path: /sitecore/content/Sam/QuadBike/Home/Login
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{902ECE4B-A3ED-42E2-BF2D-D864DBEFEFC6}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{85A1CAE3-0D22-4D52-BC6A-A47999681DF8}"
+              p:before="*"
+              s:ds="{DCE996A0-7592-4DD1-BF71-D4AAD932847D}"
+              s:id="{F724E72A-F70C-4BEB-B76B-C774571C73CD}"
+              s:par="Style={3F34E0DC-C880-45EA-A66D-B08A0FF0CF8D}"
+              s:ph="Register Placeholder" />
+            <r
+              uid="{9FCACE4C-238B-4395-A953-D6164D36AD8C}"
+              p:after="r[@uid='{85A1CAE3-0D22-4D52-BC6A-A47999681DF8}']"
+              s:ds="{DEF2330E-0A10-40D0-9DBB-0711A50B0D33}"
+              s:id="{F724E72A-F70C-4BEB-B76B-C774571C73CD}"
+              s:ph="/Header/Button Placeholder" />
+            <r
+              uid="{6ABA85E0-54D3-472A-861C-B554C413ECED}"
+              p:after="r[@uid='{9FCACE4C-238B-4395-A953-D6164D36AD8C}']"
+              s:ds="{2A364538-317A-4A50-AA0B-56D0998FEB68}"
+              s:id="{F724E72A-F70C-4BEB-B76B-C774571C73CD}"
+              s:ph="/Header/Button Placeholder" />
+            <r
+              uid="{3954C200-EC42-438F-913E-30C8442657E2}"
+              p:after="r[@uid='{6ABA85E0-54D3-472A-861C-B554C413ECED}']"
+              s:ds="{FDD63468-F71B-400E-8E6C-BEA9854626A6}"
+              s:id="{F724E72A-F70C-4BEB-B76B-C774571C73CD}"
+              s:ph="/Header/Button Placeholder" />
+            <r
+              uid="{9BFA0689-4268-459A-95A1-5BCE68AA08ED}"
+              p:after="r[@uid='{3954C200-EC42-438F-913E-30C8442657E2}']"
+              s:ds="{9CBC3470-08BA-4EC1-8B49-CCB07A654F29}"
+              s:id="{F724E72A-F70C-4BEB-B76B-C774571C73CD}"
+              s:ph="/Header/Button Placeholder" />
+            <r
+              uid="{449D9AEB-CDD0-4A22-ACE4-8B362A07DE7E}"
+              p:after="*[1=2]"
+              s:id="{A7B330C0-A510-443D-A112-7D083F273E4F}"
+              s:ph="Header" />
+          </d>
+        </r>
+    - ID: "0c4c9552-d838-4f1b-b177-735bfb2be0e1"
+      Hint: Title
+      Value: Login
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191015T110838Z

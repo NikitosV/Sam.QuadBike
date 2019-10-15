@@ -156,6 +156,8 @@
     <Content Include="Areas\Project\Views\Shared\ContactUsLayout.cshtml" />
     <Content Include="Areas\Project\Views\Shared\BikesLayout.cshtml" />
     <Content Include="Areas\Project\Views\Shared\ProvidersLayout.cshtml" />
+    <Content Include="Areas\Project\Views\Shared\LoginLayout.cshtml" />
+    <Content Include="Areas\Project\Views\Shared\RegisterLayout.cshtml" />
     <None Include="Global.asax" />
   </ItemGroup>
   <ItemGroup>
