@@ -34,7 +34,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/10/2019 17:54:57</publishTime>
     </File>
     <File Include="Areas/Project/Views/Shared/RegisterLayout.cshtml">
-      <publishTime>10/15/2019 14:44:04</publishTime>
+      <publishTime>10/15/2019 15:00:09</publishTime>
     </File>
     <File Include="Areas/Project/Views/Web.config">
       <publishTime>10/07/2019 15:33:36</publishTime>
