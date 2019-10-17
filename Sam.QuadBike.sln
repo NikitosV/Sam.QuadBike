@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sam.Feature.Slider", "Featu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sam.Foundation.DependencyInjection", "Foundation\Sam.Foundation.DependencyInjection\Sam.Foundation.DependencyInjection.csproj", "{804D00F0-96BC-4232-B429-650595EA7099}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sam.Foundation.GlassMapper", "Foundation\Sam.Foundation.GlassMapper\Sam.Foundation.GlassMapper.csproj", "{05511708-EE73-438E-817E-B113D4A61547}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{804D00F0-96BC-4232-B429-650595EA7099}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{804D00F0-96BC-4232-B429-650595EA7099}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{804D00F0-96BC-4232-B429-650595EA7099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05511708-EE73-438E-817E-B113D4A61547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05511708-EE73-438E-817E-B113D4A61547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05511708-EE73-438E-817E-B113D4A61547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05511708-EE73-438E-817E-B113D4A61547}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -57,6 +63,7 @@ Global
 		{99301889-B74D-415B-99D7-254C4D789DC2} = {A5B77757-B06B-4732-9F4C-9F230AAF1781}
 		{2ECE3A87-FD7B-4DA3-8345-823D91C383B8} = {A5B77757-B06B-4732-9F4C-9F230AAF1781}
 		{804D00F0-96BC-4232-B429-650595EA7099} = {0FDBF5AF-FEAF-47CE-BF57-4166496E6F27}
+		{05511708-EE73-438E-817E-B113D4A61547} = {0FDBF5AF-FEAF-47CE-BF57-4166496E6F27}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A5CF635A-89B6-4C08-8CDC-E6DE40712C33}
